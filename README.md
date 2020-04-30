@@ -5,7 +5,7 @@
 ![illustration](https://i.imgur.com/aBNH8BB.png)
 -------------
 -------------
-##### Infinite Coast allows to visulize and explore two fractals, Mandelbrot and Julia sets.
+##### Infinite Coast allows to visulize and explore two fractals, Mandelbrot and Julia sets in real time.
 ##### Camera can be panned and zoomed into various parts of the complex plane.
 ##### Both set visualizations can be parametrized:
 - ###### Mandelbrot Set: `max_iter`
