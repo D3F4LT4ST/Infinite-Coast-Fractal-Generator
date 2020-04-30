@@ -10,5 +10,5 @@
 ##### Both set visualizations can be parametrized:
 - ###### Mandelbrot Set: `max_iter`
 - ###### Julia Set: `max_iter`, `c`
-##### Julia Set can be visualized dynamically for ![equation](http://www.sciweavers.org/upload/Tex2Img_1588214968/render.png), where ![equation](http://www.sciweavers.org/upload/Tex2Img_1588215195/render.png) and is updated every frame, and ![equation](http://www.sciweavers.org/upload/Tex2Img_1588215116/render.png) is specified by the user
+##### Julia Set can be visualized dynamically for ![equation](http://www.sciweavers.org/upload/Tex2Img_1588214968/render.png), where ![equation](http://www.sciweavers.org/upload/Tex2Img_1588215362/render.png) and is updated every frame, and ![equation](http://www.sciweavers.org/upload/Tex2Img_1588215116/render.png) is specified by the user
 
